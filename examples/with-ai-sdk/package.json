@@ -15,8 +15,8 @@
     "@assistant-ui/react-ui": "workspace:^",
     "ai": "^4.1.25",
     "next": "15.1.8",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "react": "19.0.1",
+    "react-dom": "19.0.1",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
